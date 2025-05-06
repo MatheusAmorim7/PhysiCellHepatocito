@@ -27,9 +27,9 @@
 		</software>
 		<citation />
 		<current_time units="min">310.000000</current_time>
-		<current_runtime units="sec">101.584542</current_runtime>
-		<created>2025-04-22T19:52:54Z</created>
-		<last_modified>2025-04-22T19:52:54Z</last_modified>
+		<current_runtime units="sec">103399.267406</current_runtime>
+		<created>2025-04-28T04:30:39Z</created>
+		<last_modified>2025-04-28T04:30:39Z</last_modified>
 	</metadata>
 	<microenvironment>
 		<domain name="microenvironment">
@@ -71,49 +71,91 @@
 						<decay_rate units="1/min">0.000000</decay_rate>
 					</physical_parameter_set>
 				</variable>
-				<variable name="lactate" units="dimensionless" ID="4">
-					<physical_parameter_set>
-						<conditions />
-						<diffusion_coefficient units="micron^2/min">200.000000</diffusion_coefficient>
-						<decay_rate units="1/min">0.000000</decay_rate>
-					</physical_parameter_set>
-				</variable>
-				<variable name="urea" units="dimensionless" ID="5">
-					<physical_parameter_set>
-						<conditions />
-						<diffusion_coefficient units="micron^2/min">300.000000</diffusion_coefficient>
-						<decay_rate units="1/min">0.000000</decay_rate>
-					</physical_parameter_set>
-				</variable>
-				<variable name="glutamine" units="mM" ID="6">
+				<variable name="urea" units="mM" ID="4">
 					<physical_parameter_set>
 						<conditions />
 						<diffusion_coefficient units="micron^2/min">100.000000</diffusion_coefficient>
 						<decay_rate units="1/min">0.000000</decay_rate>
 					</physical_parameter_set>
 				</variable>
-				<variable name="arginine" units="mM" ID="7">
+				<variable name="lactate" units="mM" ID="5">
 					<physical_parameter_set>
 						<conditions />
 						<diffusion_coefficient units="micron^2/min">100.000000</diffusion_coefficient>
 						<decay_rate units="1/min">0.000000</decay_rate>
 					</physical_parameter_set>
 				</variable>
-				<variable name="ornithine" units="mM" ID="8">
+				<variable name="ammonia" units="mM" ID="6">
 					<physical_parameter_set>
 						<conditions />
 						<diffusion_coefficient units="micron^2/min">100.000000</diffusion_coefficient>
 						<decay_rate units="1/min">0.000000</decay_rate>
 					</physical_parameter_set>
 				</variable>
-				<variable name="ammonia" units="mM" ID="9">
+				<variable name="glutamine" units="mM" ID="7">
 					<physical_parameter_set>
 						<conditions />
 						<diffusion_coefficient units="micron^2/min">100.000000</diffusion_coefficient>
 						<decay_rate units="1/min">0.000000</decay_rate>
 					</physical_parameter_set>
 				</variable>
-				<variable name="nh3" units="mM" ID="10">
+				<variable name="valine" units="mM" ID="8">
+					<physical_parameter_set>
+						<conditions />
+						<diffusion_coefficient units="micron^2/min">100.000000</diffusion_coefficient>
+						<decay_rate units="1/min">0.000000</decay_rate>
+					</physical_parameter_set>
+				</variable>
+				<variable name="leucine" units="mM" ID="9">
+					<physical_parameter_set>
+						<conditions />
+						<diffusion_coefficient units="micron^2/min">100.000000</diffusion_coefficient>
+						<decay_rate units="1/min">0.000000</decay_rate>
+					</physical_parameter_set>
+				</variable>
+				<variable name="isoleucine" units="mM" ID="10">
+					<physical_parameter_set>
+						<conditions />
+						<diffusion_coefficient units="micron^2/min">100.000000</diffusion_coefficient>
+						<decay_rate units="1/min">0.000000</decay_rate>
+					</physical_parameter_set>
+				</variable>
+				<variable name="threonine" units="mM" ID="11">
+					<physical_parameter_set>
+						<conditions />
+						<diffusion_coefficient units="micron^2/min">100.000000</diffusion_coefficient>
+						<decay_rate units="1/min">0.000000</decay_rate>
+					</physical_parameter_set>
+				</variable>
+				<variable name="lysine" units="mM" ID="12">
+					<physical_parameter_set>
+						<conditions />
+						<diffusion_coefficient units="micron^2/min">100.000000</diffusion_coefficient>
+						<decay_rate units="1/min">0.000000</decay_rate>
+					</physical_parameter_set>
+				</variable>
+				<variable name="methionine" units="mM" ID="13">
+					<physical_parameter_set>
+						<conditions />
+						<diffusion_coefficient units="micron^2/min">100.000000</diffusion_coefficient>
+						<decay_rate units="1/min">0.000000</decay_rate>
+					</physical_parameter_set>
+				</variable>
+				<variable name="phenylalanine" units="mM" ID="14">
+					<physical_parameter_set>
+						<conditions />
+						<diffusion_coefficient units="micron^2/min">100.000000</diffusion_coefficient>
+						<decay_rate units="1/min">0.000000</decay_rate>
+					</physical_parameter_set>
+				</variable>
+				<variable name="tryptophan" units="mM" ID="15">
+					<physical_parameter_set>
+						<conditions />
+						<diffusion_coefficient units="micron^2/min">100.000000</diffusion_coefficient>
+						<decay_rate units="1/min">0.000000</decay_rate>
+					</physical_parameter_set>
+				</variable>
+				<variable name="histidine" units="mM" ID="16">
 					<physical_parameter_set>
 						<conditions />
 						<diffusion_coefficient units="micron^2/min">100.000000</diffusion_coefficient>
@@ -187,35 +229,35 @@
 							<label index="58" size="3" units="micron/min">motility_vector</label>
 							<label index="61" size="1" units="none">chemotaxis_index</label>
 							<label index="62" size="1" units="none">chemotaxis_direction</label>
-							<label index="63" size="11" units="none">chemotactic_sensitivities</label>
-							<label index="74" size="11" units="1/min">secretion_rates</label>
-							<label index="85" size="11" units="1/min">uptake_rates</label>
-							<label index="96" size="11" units="stuff/cubic micron">saturation_densities</label>
-							<label index="107" size="11" units="stuff/min">net_export_rates</label>
-							<label index="118" size="11" units="stuff">internalized_total_substrates</label>
-							<label index="129" size="11" units="none">fraction_released_at_death</label>
-							<label index="140" size="11" units="none">fraction_transferred_when_ingested</label>
-							<label index="151" size="1" units="1/min">apoptotic_phagocytosis_rate</label>
-							<label index="152" size="1" units="1/min">necrotic_phagocytosis_rate</label>
-							<label index="153" size="1" units="1/min">other_dead_phagocytosis_rate</label>
-							<label index="154" size="2" units="1/min">live_phagocytosis_rates</label>
-							<label index="156" size="2" units="1/min">attack_rates</label>
-							<label index="158" size="2" units="none">immunogenicities</label>
-							<label index="160" size="1" units="none">attack_target</label>
-							<label index="161" size="1" units="1/min">attack_damage_rate</label>
-							<label index="162" size="1" units="min">attack_duration</label>
-							<label index="163" size="1" units="none">attack_total_damage_delivered</label>
-							<label index="164" size="2" units="1/min">fusion_rates</label>
-							<label index="166" size="2" units="1/min">transformation_rates</label>
-							<label index="168" size="2" units="none">asymmetric_division_probabilities</label>
-							<label index="170" size="1" units="none">damage</label>
-							<label index="171" size="1" units="1/min">damage_rate</label>
-							<label index="172" size="1" units="1/min">damage_repair_rate</label>
-							<label index="173" size="1" units="mM/min">oxygen_flux</label>
-							<label index="174" size="1" units="mM/min">glucose_flux</label>
-							<label index="175" size="1" units="mM/min">acetate_flux</label>
-							<label index="176" size="1" units="1/min">growth_rate</label>
-							<label index="177" size="1" units="mM/min">co2_flux</label>
+							<label index="63" size="17" units="none">chemotactic_sensitivities</label>
+							<label index="80" size="17" units="1/min">secretion_rates</label>
+							<label index="97" size="17" units="1/min">uptake_rates</label>
+							<label index="114" size="17" units="stuff/cubic micron">saturation_densities</label>
+							<label index="131" size="17" units="stuff/min">net_export_rates</label>
+							<label index="148" size="17" units="stuff">internalized_total_substrates</label>
+							<label index="165" size="17" units="none">fraction_released_at_death</label>
+							<label index="182" size="17" units="none">fraction_transferred_when_ingested</label>
+							<label index="199" size="1" units="1/min">apoptotic_phagocytosis_rate</label>
+							<label index="200" size="1" units="1/min">necrotic_phagocytosis_rate</label>
+							<label index="201" size="1" units="1/min">other_dead_phagocytosis_rate</label>
+							<label index="202" size="2" units="1/min">live_phagocytosis_rates</label>
+							<label index="204" size="2" units="1/min">attack_rates</label>
+							<label index="206" size="2" units="none">immunogenicities</label>
+							<label index="208" size="1" units="none">attack_target</label>
+							<label index="209" size="1" units="1/min">attack_damage_rate</label>
+							<label index="210" size="1" units="min">attack_duration</label>
+							<label index="211" size="1" units="none">attack_total_damage_delivered</label>
+							<label index="212" size="2" units="1/min">fusion_rates</label>
+							<label index="214" size="2" units="1/min">transformation_rates</label>
+							<label index="216" size="2" units="none">asymmetric_division_probabilities</label>
+							<label index="218" size="1" units="none">damage</label>
+							<label index="219" size="1" units="1/min">damage_rate</label>
+							<label index="220" size="1" units="1/min">damage_repair_rate</label>
+							<label index="221" size="1" units="mM/min">oxygen_flux</label>
+							<label index="222" size="1" units="mM/min">glucose_flux</label>
+							<label index="223" size="1" units="mM/min">acetate_flux</label>
+							<label index="224" size="1" units="1/min">growth_rate</label>
+							<label index="225" size="1" units="mM/min">co2_flux</label>
 						</labels>
 						<filename>output00000031_cells.mat</filename>
 					</simplified_data>

@@ -10,14 +10,14 @@
  width="1440" 
  height="130" 
  id="svg2">
-  <circle cx="32.5" cy="32.5" r="25" stroke-width="1" stroke="red" fill="red"/>
-  <circle cx="32.5" cy="32.5" r="12.5" stroke-width="1" stroke="red" fill="red"/>
+  <circle cx="32.5" cy="32.5" r="25" stroke-width="1" stroke="red" fill="blue"/>
+  <circle cx="32.5" cy="32.5" r="12.5" stroke-width="1" stroke="red" fill="blue"/>
   <text x="72.5" y="45.25"
    font-family="Arial" font-size="42.5" fill="black" >
    ecoli
   </text>
-  <circle cx="32.5" cy="97.5" r="25" stroke-width="1" stroke="red" fill="red"/>
-  <circle cx="32.5" cy="97.5" r="12.5" stroke-width="1" stroke="red" fill="red"/>
+  <circle cx="32.5" cy="97.5" r="25" stroke-width="1" stroke="red" fill="blue"/>
+  <circle cx="32.5" cy="97.5" r="12.5" stroke-width="1" stroke="red" fill="blue"/>
   <text x="72.5" y="110.25"
    font-family="Arial" font-size="42.5" fill="black" >
    ecoli_1

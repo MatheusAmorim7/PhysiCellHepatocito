@@ -17,7 +17,7 @@
   </text>
   <text x="12.5" y="57.5"
    font-family="Arial" font-size="23.75" fill="black" >
-   1 agents
+   2 agents
   </text>
  <g id="tissue" 
     transform="translate(0,1070) scale(1,-1)">
@@ -1045,10 +1045,10 @@
   <rect x="400" y="400" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
   <rect x="420" y="400" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
   <rect x="440" y="400" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
-  <rect x="460" y="400" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
-  <rect x="480" y="400" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
+  <rect x="460" y="400" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
+  <rect x="480" y="400" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
   <rect x="500" y="400" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
-  <rect x="520" y="400" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
+  <rect x="520" y="400" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
   <rect x="540" y="400" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
   <rect x="560" y="400" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
   <rect x="580" y="400" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
@@ -1094,8 +1094,8 @@
   <rect x="380" y="420" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
   <rect x="400" y="420" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
   <rect x="420" y="420" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
-  <rect x="440" y="420" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
-  <rect x="460" y="420" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
+  <rect x="440" y="420" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
+  <rect x="460" y="420" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
   <rect x="480" y="420" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
   <rect x="500" y="420" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
   <rect x="520" y="420" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
@@ -1143,11 +1143,11 @@
   <rect x="360" y="440" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
   <rect x="380" y="440" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
   <rect x="400" y="440" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
-  <rect x="420" y="440" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
+  <rect x="420" y="440" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
   <rect x="440" y="440" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
   <rect x="460" y="440" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
-  <rect x="480" y="440" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
-  <rect x="500" y="440" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
+  <rect x="480" y="440" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(159,0,38)"/>
+  <rect x="500" y="440" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(159,0,38)"/>
   <rect x="520" y="440" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
   <rect x="540" y="440" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
   <rect x="560" y="440" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
@@ -1192,13 +1192,13 @@
   <rect x="340" y="460" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
   <rect x="360" y="460" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
   <rect x="380" y="460" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
-  <rect x="400" y="460" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
-  <rect x="420" y="460" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
+  <rect x="400" y="460" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
+  <rect x="420" y="460" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
   <rect x="440" y="460" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
-  <rect x="460" y="460" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
-  <rect x="480" y="460" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
-  <rect x="500" y="460" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
-  <rect x="520" y="460" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
+  <rect x="460" y="460" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(159,0,38)"/>
+  <rect x="480" y="460" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(159,0,38)"/>
+  <rect x="500" y="460" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(175,0,38)"/>
+  <rect x="520" y="460" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(159,0,38)"/>
   <rect x="540" y="460" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
   <rect x="560" y="460" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
   <rect x="580" y="460" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
@@ -1242,14 +1242,14 @@
   <rect x="340" y="480" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
   <rect x="360" y="480" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
   <rect x="380" y="480" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
-  <rect x="400" y="480" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
+  <rect x="400" y="480" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
   <rect x="420" y="480" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
-  <rect x="440" y="480" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
-  <rect x="460" y="480" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
-  <rect x="480" y="480" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
-  <rect x="500" y="480" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(159,0,38)"/>
-  <rect x="520" y="480" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
-  <rect x="540" y="480" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
+  <rect x="440" y="480" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(159,0,38)"/>
+  <rect x="460" y="480" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(159,0,38)"/>
+  <rect x="480" y="480" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(175,0,38)"/>
+  <rect x="500" y="480" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(255,255,204)"/>
+  <rect x="520" y="480" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(175,0,38)"/>
+  <rect x="540" y="480" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(159,0,38)"/>
   <rect x="560" y="480" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
   <rect x="580" y="480" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
   <rect x="600" y="480" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
@@ -1294,15 +1294,15 @@
   <rect x="380" y="500" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
   <rect x="400" y="500" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
   <rect x="420" y="500" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
-  <rect x="440" y="500" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
-  <rect x="460" y="500" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
-  <rect x="480" y="500" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(159,0,38)"/>
-  <rect x="500" y="500" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(255,255,204)"/>
+  <rect x="440" y="500" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(159,0,38)"/>
+  <rect x="460" y="500" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(175,0,38)"/>
+  <rect x="480" y="500" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(255,255,204)"/>
+  <rect x="500" y="500" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(175,0,38)"/>
   <rect x="520" y="500" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(159,0,38)"/>
-  <rect x="540" y="500" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
+  <rect x="540" y="500" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(159,0,38)"/>
   <rect x="560" y="500" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
   <rect x="580" y="500" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
-  <rect x="600" y="500" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
+  <rect x="600" y="500" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
   <rect x="620" y="500" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
   <rect x="640" y="500" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
   <rect x="660" y="500" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
@@ -1342,13 +1342,13 @@
   <rect x="340" y="520" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
   <rect x="360" y="520" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
   <rect x="380" y="520" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
-  <rect x="400" y="520" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
+  <rect x="400" y="520" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
   <rect x="420" y="520" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
   <rect x="440" y="520" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
-  <rect x="460" y="520" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
-  <rect x="480" y="520" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
+  <rect x="460" y="520" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(159,0,38)"/>
+  <rect x="480" y="520" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(175,0,38)"/>
   <rect x="500" y="520" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(159,0,38)"/>
-  <rect x="520" y="520" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
+  <rect x="520" y="520" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(159,0,38)"/>
   <rect x="540" y="520" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
   <rect x="560" y="520" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
   <rect x="580" y="520" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
@@ -1396,12 +1396,12 @@
   <rect x="420" y="540" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
   <rect x="440" y="540" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
   <rect x="460" y="540" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
-  <rect x="480" y="540" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
-  <rect x="500" y="540" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
+  <rect x="480" y="540" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(159,0,38)"/>
+  <rect x="500" y="540" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(159,0,38)"/>
   <rect x="520" y="540" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
   <rect x="540" y="540" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
   <rect x="560" y="540" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
-  <rect x="580" y="540" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
+  <rect x="580" y="540" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
   <rect x="600" y="540" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
   <rect x="620" y="540" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
   <rect x="640" y="540" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
@@ -1450,7 +1450,7 @@
   <rect x="500" y="560" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
   <rect x="520" y="560" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
   <rect x="540" y="560" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
-  <rect x="560" y="560" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
+  <rect x="560" y="560" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
   <rect x="580" y="560" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
   <rect x="600" y="560" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
   <rect x="620" y="560" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
@@ -1499,7 +1499,7 @@
   <rect x="480" y="580" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
   <rect x="500" y="580" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
   <rect x="520" y="580" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
-  <rect x="540" y="580" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
+  <rect x="540" y="580" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
   <rect x="560" y="580" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
   <rect x="580" y="580" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
   <rect x="600" y="580" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
@@ -1547,7 +1547,7 @@
   <rect x="440" y="600" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
   <rect x="460" y="600" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
   <rect x="480" y="600" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
-  <rect x="500" y="600" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(144,0,38)"/>
+  <rect x="500" y="600" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
   <rect x="520" y="600" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
   <rect x="540" y="600" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
   <rect x="560" y="600" width="20" height="20" stroke-width="0" stroke="none" fill="rgb(128,0,38)"/>
@@ -2525,8 +2525,12 @@
   </g>
   <g id="cells">
    <g id="cell0" type="ecoli" dead="false" >
-  <circle cx="500" cy="500" r="8.41271" stroke-width="0.5" stroke="red" fill="red"/>
-  <circle cx="500" cy="500" r="5.05167" stroke-width="0.5" stroke="red" fill="red"/>
+  <circle cx="502.653" cy="496.097" r="6.69946" stroke-width="0.5" stroke="red" fill="blue"/>
+  <circle cx="502.653" cy="496.097" r="4.0229" stroke-width="0.5" stroke="red" fill="blue"/>
+   </g>
+   <g id="cell3" type="ecoli" dead="false" >
+  <circle cx="495.242" cy="507.002" r="6.69946" stroke-width="0.5" stroke="red" fill="blue"/>
+  <circle cx="495.242" cy="507.002" r="4.0229" stroke-width="0.5" stroke="red" fill="blue"/>
    </g>
   </g>
  </g>
@@ -2537,7 +2541,7 @@
   </text>
   <text x="25" y="1045"
    font-family="Arial" font-size="18.75" fill="black" >
-   0 days, 0 hours, 0 minutes, and 8.8014 seconds
+   0 days, 0 hours, 6 minutes, and 30.7595 seconds
   </text>
   <rect x="0" y="70" width="1000" height="1000" stroke-width="2" stroke="rgb(0,0,0)" fill="none"/>
   <rect x="1025" y="70" width="25" height="97.5" stroke-width="2" stroke="none" fill="rgb(159,0,38)"/>

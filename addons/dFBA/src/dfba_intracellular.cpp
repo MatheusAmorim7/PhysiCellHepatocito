@@ -346,8 +346,15 @@ void dFBAIntracellular::initialize_intracellular_from_pugixml(pugi::xml_node& no
         ExchangeFluxData ex_strut = it->second;
         // TODO
         // check this ex_strut.density_index is a defined density at Microenviroment
-        dFBAReaction* rxn = this->sbml_model.getReaction(ex_strut.fba_flux_id);
-        assert( rxn != nullptr );
+        try {
+            dFBAReaction* rxn = this->sbml_model.getReaction(ex_strut.fba_flux_id);
+            if (rxn == nullptr) {
+                throw std::runtime_error("[dFBA Error] Reação de troca não encontrada: " + ex_strut.fba_flux_id);
+            }
+        } catch (const std::exception& e) {
+            std::cerr << e.what() << std::endl;
+            exit(1);
+        }        
     }
     this->sbml_model.setReactionUpperBound(this->objective_reaction, this->max_growth_rate);
 
